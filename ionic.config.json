@@ -1,0 +1,7 @@
+{
+  "name": "ActivityApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
